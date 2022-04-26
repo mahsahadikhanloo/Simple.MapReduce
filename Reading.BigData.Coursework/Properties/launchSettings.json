@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Reading.BigData.Coursework": {
+      "commandName": "Project",
+      "commandLineArgs": "PASSENGERS .\\Data\\AComp_Passenger_data_no_error.csv"
+    }
+  }
+}
