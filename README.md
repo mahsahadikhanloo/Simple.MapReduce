@@ -25,7 +25,7 @@ In order to run first task run the following command:
 dotnet run AIRPORT .\Data\AComp_Passenger_data_no_error.csv
 ```
 Then you see the result like the following lines in the console:
-
+You can download the result of the first task from [here](./Reading.BigData.Coursework//Data//Results/AComp_Passenger_data_no_error_Airports_Flights_FINAL.csv):
 ```shell
 Job [NumberOfFlightsPerAirports] is starting...
 [INPUT]:: [500] Number of input records loaded.
@@ -116,10 +116,7 @@ Job [NumberOfFlightsPerAirports] is starting...
 Job [NumberOfFlightsPerAirports] is completed.
 ```
 
-```shell
-cd .\Reading.BigData.Coursework\
-dotnet build
-```
+
 
 ### Second Task
 In order to run second task run the following command:
@@ -128,6 +125,7 @@ In order to run second task run the following command:
 dotnet run PASSENGERS .\Data\AComp_Passenger_data_no_error.csv
 ```
 Then you see the result like the following lines in the console:
+You can download the result of the first task from [here](./Reading.BigData.Coursework//Data//Results/AComp_Passenger_data_no_error_Passenge_Highest_Flights_Number_FINAL.csv):
 
 ```shell
 Job [PassengersWithHighestNumberOfFlightsStepOne] is starting...
